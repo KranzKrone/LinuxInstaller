@@ -1,0 +1,2 @@
+# LinuxInstaller
+Installerscript for Linuxprogramms
