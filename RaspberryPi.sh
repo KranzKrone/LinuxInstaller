@@ -26,6 +26,7 @@ sudo apt-get install virtualenv
 sudo apt-get install recordmydesktop gtk-recordmydesktop
 sudo apt-get install simplescreenrecorder
 sudo apt-get install libavcodec-extra
+sudo apt-get install youtube-dl
 sudo apt-get install sqlitebrowser
 sudo apt-get install python3 python3-setuptools python3-pip
 
