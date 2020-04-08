@@ -19,6 +19,7 @@ sudo apt-get install git git-gui
 sudo apt-get install filezilla
 sudo apt-get install retext
 sudo apt-get install gedit gedit-plugins
+sudo apt-get install vim
 sudo apt-get install remmina-plugin-nx remmina-plugin-rdp remmina-plugin-telepathy remmina-plugin-vnc remmina-plugin-xdmcp remmina-plugin-gnome
 sudo apt-get install rdesktop
 sudo apt-get install fritzing fritzing-parts
